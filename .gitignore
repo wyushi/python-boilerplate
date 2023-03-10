@@ -1,0 +1,19 @@
+# Python files
+*.pyc
+__pycache__/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs and other files
+*.log
+*.swp
+.DS_Store
